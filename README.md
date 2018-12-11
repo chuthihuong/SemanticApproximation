@@ -1,6 +1,6 @@
 # Semantic Approximation for Reducing Code Bloat in Genetic Programming
 This code provides a Java implementation of Semantic Approximation as described in "Semantic Approximation for Reducing Code Bloat in Genetic Programming" by Thi Huong Chu et al.
-# Method
+  # Method
 + GP: Standard GP,
 + SA: Semantic Approximation,
 + DA: Desired Approximation,
@@ -14,11 +14,11 @@ You can set evolutionary parameter values in file GP/Common/Const.java. Here are
 + PCROSS: Crossover probability,
 + PMUTATE: Mutation probability.
 
-# Prolem Paramater values:
+  # Prolem Paramater values:
 You set up the information of the problem in file GP/Common/Const.java:
 + PROBLEM: The name of the problem,
 + NUMVAR: The number of features,
 + NUMFITCASE: The number of samples in training data,
 + NUMFITTEST: The number of samples in testing data.
-# Supplement: 
+  # Supplement: 
 The average bloat, overfitting and complexity over generations on problems in "Semantic Approximation for Reducing Code Bloat in Genetic Programming" by Thi Huong Chu et al.
