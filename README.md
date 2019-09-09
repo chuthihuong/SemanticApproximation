@@ -22,4 +22,4 @@ You set up the information of the problem in file GP/Common/Const.java:
 + NUMFITCASE: The number of samples in training data,
 + NUMFITTEST: The number of samples in testing data.
   # Supplement: 
-The average bloat, overfitting and complexity over generations on problems in "Semantic Approximation for Reducing Code Bloat in Genetic Programming" by Thi Huong Chu et al.
+The supplement results in the paper "Semantic Approximation for Reducing Code Bloat in Genetic Programming" by Thi Huong Chu et al.
